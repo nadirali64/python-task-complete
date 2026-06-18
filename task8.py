@@ -1,4 +1,4 @@
-username=int(input("enter your user name"))
+username=str(input("enter your user name"))
 if username=="admin":
     print("Wellcome Admin")
 else:
